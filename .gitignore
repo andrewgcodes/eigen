@@ -31,3 +31,13 @@ debug/
 
 yarn.lock
 contracts/deployments/
+
+cache/
+out/
+broadcast/
+.DS_Store
+coverage/
+coverage.json
+typechain/
+typechain-types/
+*.log
